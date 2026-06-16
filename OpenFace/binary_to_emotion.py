@@ -79,7 +79,7 @@ TARGET_AUS = [4, 6, 12]
 
 # Zelfde windowgrootte als bij PyAFAR.
 # Als je andere windowgroottes wilt testen, verander dan alleen dit getal.
-WINDOW_SIZE_FRAMES = 15
+WINDOW_SIZE_FRAMES = 10
 # ─────────────────────────────────────────────────────────────────────────────
 
 
